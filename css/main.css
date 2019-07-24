@@ -99,11 +99,24 @@ textarea {
    ========================================================================== */
 header{
 margin: 0.2em 0;
+<<<<<<< HEAD
 
+=======
+>>>>>>> desarrollo
   background: #ccc;
   color: #000;
   padding: 0.2em 0;
 }
+<<<<<<< HEAD
+=======
+footer{
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  margin-bottom: 2em;
+  background: aqua;
+}
+>>>>>>> desarrollo
 /* ==========================================================================
    Helper classes
    ========================================================================== */
